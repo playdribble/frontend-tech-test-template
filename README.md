@@ -1,1 +1,1 @@
-# frontend-tech-test-template
+# Midnite frontend tech test template
